@@ -1,0 +1,22 @@
+{
+  "name": "tamperdiscord",
+  "version": "1.0.0",
+  "description": "Userscripts for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "extension",
+    "better",
+    "tamper",
+    "grease",
+    "monkey"
+  ],
+  "author": "LMNYX",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}

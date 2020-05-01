@@ -1,0 +1,12 @@
+{
+    "local": false,
+    "localServer": "//localhost:8080",
+    "repo": "rauenzi",
+    "branch": "master",
+    "injectorBranch": "injector",
+    "minified": true,
+    "version": "0.4.1",
+    "os": "win32",
+    "dataPath": "C:\\Users\\jackg\\AppData\\Roaming/BetterDiscord/",
+    "hash": "master"
+}
